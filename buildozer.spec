@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = YourAppTitle
+title = Enat
 
 # (str) Package name
 package.name = yourapppackage
@@ -19,7 +19,7 @@ source.main = main.py
 requirements = python3,kivy==2.2.1,Pillow==10.0.1,kivymd
 
 # (str) Presplash of the application
-presplash.filename = path/to/your/presplash/image.png
+presplash.filename = logo.jpg
 
 # (str) Icon of the application
 icon.filename = path/to/your/icon/image.png
